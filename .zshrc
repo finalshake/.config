@@ -33,6 +33,7 @@ alias ip="167.179.115.204"
 alias s="neofetch"
 alias ra="ranger"
 alias c="clear"
+alias nv="nvim"
 
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
