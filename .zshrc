@@ -29,7 +29,7 @@ ZSH_THEME_RANDOM_CANDIDATES=(
   )
 
 
-alias ip="167.179.115.204"
+alias sudo='sudo '
 alias s="neofetch"
 alias ra="ranger"
 alias c="clear"
