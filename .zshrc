@@ -170,3 +170,10 @@ export FLASK_APP=application.py
 
 #Shortcuts from Lukesmith's github
 #source ~/.shortcuts
+
+eval $(thefuck --alias)
+
+#for using privoxy. Don't set unless having privoxy run in system.
+export http_proxy=http://127.0.0.1:8118
+export https_proxy=http://127.0.0.1:8118
+export ftp_proxy=http://127.0.0.1:8118
