@@ -34,6 +34,8 @@ alias s="neofetch"
 alias ra="ranger"
 alias c="clear"
 alias nv="nvim"
+alias mv="mv -i"
+alias cp="cp -i"
 
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
