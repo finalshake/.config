@@ -19,7 +19,8 @@
 #set wallpapers
 ~/.config/openbox/wallpaper.sh &
 
-compton -b --config ~/.config/compton.conf &
+#compton -b --config ~/.config/compton.conf &
+picom -b --config ~/.config/picom.conf &
 volumeicon &
 tint2 &
 tilda &
